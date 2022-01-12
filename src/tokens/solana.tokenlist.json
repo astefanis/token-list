@@ -75789,7 +75789,7 @@
       "symbol": "BOOO",
       "name": "BooBooCoin",
       "decimals": 5,
-      "logoURI": "https://github.com/Jacob130000x/booboologo/blob/main/booboologo.png",
+      "logoURI": "https://raw.githubusercontent.com/Jacob130000x/booboologo/main/logo2.png",
       "tags": [
         "farming",
         "payment-token",
@@ -76734,6 +76734,170 @@
         "nft-token",
         "community",
         "SBP"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8DWMpVjWCawgurBXWHjfDew1CjkxKGQevGMpGmhAFdTa",
+      "symbol": "DUST",
+      "name": "DUST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/codingbeast/testapp/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "sobAUEhmPMrid5WtfXRCTRgASFFJbekKq8aLccC3DaL",
+      "symbol": "SOB2",
+      "name": "SolaLambo Version 2",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sobAUEhmPMrid5WtfXRCTRgASFFJbekKq8aLccC3DaL/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sy2xymyc7J",
+        "twitter": "https://twitter.com/SolaLambo",
+        "website": "https://sob.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BdNwXKmq9NTxLXMc9M35wkcJ4dBE2m3yf5LhKHJQfmE5",
+      "symbol": "KHLO",
+      "name": "KahleoKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RoadRunner440/logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWEX6oPPN4HKa93BVWZsmhxUPPmwk1BMSkZrcnWAT8gq",
+      "symbol": "VICE",
+      "name": "Vicegerent",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Longjoe76/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AR5AsX5Wuwi89r1tkftMYXaGwsSzt8f2GcL5ngTsaaTc",
+      "symbol": "SHAPES",
+      "name": "Shapes WL token",
+      "decimals": 0,
+      "logoURI": "https://metadata.apoyield.com/logo.png",
+      "tags": [
+        "community-token",
+        "nft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/msB5gFcUZM",
+        "twitter": "https://twitter.com/shapesofsolana",
+        "website": "https://shapes.ltd/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EimK4rPobJ6KosVq75pm3jSBB5waUiYATu4L38Up3hmZ",
+      "symbol": "OCEANTOKEN",
+      "name": "OCEANTOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EimK4rPobJ6KosVq75pm3jSBB5waUiYATu4L38Up3hmZ/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "address": "EimK4rPobJ6KosVq75pm3jSBB5waUiYATu4L38Up3hmZ",
+        "description": "OCEANTOKEN is a tokenized donation asset that supports TEAMSEAS and SeaChain projects",
+        "instagram": "https://www.instagram.com/oceantokens_founder//",
+        "website": "https://www.oceantokens.site/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CLoTdqgpqcvCQDipcGDkJxBPJVyZMP8v8e3iCFP5tFfc",
+      "symbol": "MvrsWL",
+      "name": "Metaversol WL Token",
+      "decimals": 0,
+      "logoURI": "https://metaversol.com/coinlogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Metaversol WL Tokens for Pass Mint",
+        "discord": "https://discord.gg/metaversol",
+        "twitter": "https://twitter.com/MxMetaversol",
+        "website": "https://metaversol.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AWxmmrmnLaQoAvmzKXmjFAsSuAKd6fGox964jvKi9MY",
+      "symbol": "SPILU",
+      "name": "Sofie Private",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ilov-eu/assets/main/SPILU-logo.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://spilu.ilov.eu/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9idUGSpZkFtqxYTrSd3YsgcaVxVwfSTrDSQ411nckbvb",
+      "symbol": "ADAM",
+      "name": "Adam Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/adamliu84/ADAMCrypto/main/ADAM.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DtVC9rcYBQozaqorEN6EKpRnSGxVQdds3bQkjN8yQWxg",
+      "symbol": "DDCN",
+      "name": "DD Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SkippyG/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2NczZKqiEtv1CCufwBCLVRCh17w8aHAhvyGTU486KMo3",
+      "symbol": "ST",
+      "name": "Solana Tiger",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2NczZKqiEtv1CCufwBCLVRCh17w8aHAhvyGTU486KMo3/logo.png",
+      "tags": [
+        "community-token",
+        "meme"
+      ],
+      "extensions": {
+        "discord": "https://discord.io/solanatiger_slt",
+        "telegram": "https://t.me/solanatiger_slt",
+        "twitter": "https://twitter.com/solanatiger_slt",
+        "website": "https://solanatiger.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "22WH22zjhczZU5Rc8jjteqNmM2hiv8VnJb8eha1B4eoE",
+      "symbol": "DFOREST",
+      "name": "Deer Forest",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TheDeerNFT/logo/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
       ]
     }
   ],
